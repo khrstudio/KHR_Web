@@ -1,0 +1,45 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_02:
+
+Today We Work With FrontEnd:
+============================
+1.Structure & Content of Any Webpage are Create By HTML;
+
+HTML is a Tag Based Mark-up Language.
+The Syntex of Tag Writing is start with Lessthan (<) Symbol, then tagname & close with Greaterthan (>) Symbol
+Opening Tag is as <tagname> & Closing Tag is </tagname>
+Total Tag Used in html are more or less 118 tags.
+=============================================================================================================
+What is Mark-up Language?
+ANS: Sobgula Tag-er Somonnoy-k Mark-up Language Bole.
+=============================================================================================================
+Todays Project: Create a Webpage Using HTML;
+============================================
+# 1st Step: Create a New Project with Selected Folder I Desire.
+
+# 2nd Step: Create a Directory First to Save Our Work On It.
+
+# 3rd Step: Create a New File Using That Directory Create in 2nd Step. Named The File "index.html"
+
+# 4th Step: Start Writing On The File "index.html" Created.
+
+# 5th Step: For Bangla Writing We Must Use Tag Naming "Meta Tag" Tag Seams as <meta charset="UTF-8"/>
+
+# 6th Step: Using Table Tag; Table Tag Seams as "<table></table>"
+		Table Row Tag Seams as <tr></tr>
+		Table Collumn Tag Seams as <td></td>
+		Table Heading Tag Seams as <th></th>
+
+# 7th Step: Using Attribute Named "Border" in Table Tag e.g: <table border="1">
+
+# 8th Step: Using  Thematic Break Tag; e.g: The <hr/> element is used to separate content.
+
+# 9th Step: Using Attribute Named "colspan" Tag For Marge Table Collumn; e.g: <th colspan="2"></th> Or <td colspan="2"></td>
+
+# 10th Step: Using Attribute Named "rowspan" Tag For Marge Table Row; e.g: <th rowspan="2"></th> Or <td rowspan="2"></td>
+
+# 11th Step: Design a Complete Webpage Using Table Method.

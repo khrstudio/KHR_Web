@@ -1,0 +1,31 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+
+1. Web-1989 (Tim Berner Lee)
+2. Internet-1990 (US Army) First Name was Packet Network
+3. Website-Information Share
+4. Webpage-Individual Information Page
+
+
+Web Application
+===============
+	
+	1. FrontEnd
+		i)   Structure & Content = HTML
+		ii)  Presentation = CSS
+		iii) Behaviour = JS
+
+	2. Server Side
+		i) PHP
+
+	3. Database
+		i) My SQL
+
+
+
+# Best Editor For PHP is JetBrains PhpStorm 2016.3.2 (License Server: http://idea.imsxm.com)
+# Good Editor For PHP is Sublimetext
+# Best Editor For Java Script is JetBrains WebStrom

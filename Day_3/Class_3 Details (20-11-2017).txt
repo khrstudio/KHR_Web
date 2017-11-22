@@ -1,0 +1,81 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_03:
+
+Today We Work With FrontEnd:
+============================
+1.Structure & Content of Any Webpage are Create By HTML;
+# Previous Class Revision
+
+# 1st Topic: Create a Webpage Layout Using Table Method.
+
+# 2nd Topic: a Static Webpage Needs;
+	a) Heading
+	b) Paragraph
+	c) Image
+# 3rd Topic: Article Alingment; e.g: Left-Right-Center-Justify
+
+# 4th Topic: Bold a Selected Article; e.g: <b></b>
+
+# 5th Topic: Bold a Selected Article Which is Used as Keyword; e.g: <strong></strong>
+
+# 6th Topic: Underline Selected Article; e.g: <u></u>
+
+# 7th Topic: Underline Selected Article Which is Used as Keyword; e.g: <ins></ins>
+
+# 8th Topic: Italic Selected Article; e.g: <i></i>
+
+# 9th Topic: Italic Selected Article Which is Used as Keyword; e.g: <em></em>
+
+# 10th Topic: Highliting Selected Article Using Mark; e.g: <mark></mark>
+
+# 11th Topic: Writing Methametical Article Using Super-Script; e.g: <sup></sup>
+
+# 12th Topic: Writing Chemestry Article Using Sub-Script; e.g: <sub></sub>
+
+# 13th Topic: Writing Poetry Article Using Pre Formated Text Tag; e.g: <pre></pre>
+
+# 14th Topic: Writing Article Using anchore Formated Text Tag; e.g: <a href="" target="_blank"></a>
+
+# 15th Topic: Open Linked Page in New Tab; e.g: <a href="" target="_blank"></a>
+
+# 16th Topic: Menu Button Creation Using Anchor Tag; e.g: <a href="filename.html">File Name</a>
+================================================================================================
+
+# Project: 
+	* Project Folder = Your Name-SEIP ID
+	* Portfolio Website:
+		1. Home:
+			a) Mission
+			b) Vission
+			c) Dream (10 Dreams)
+		2. About
+			a) About Myself
+			b) My Familly
+			c) My Friends
+		3. Portfolio
+			a) Complete CV
+		4. Gallery
+			a) My Choice of Photo
+		5. Contact
+			a) My Contact Address
+
+===============================================================================================
+Question Answer Part:
+=====================
+What is Tag?
+ANS: Tag is a Syntex, which is Used For Show The Content in Browser.
+
+What is Element?
+ANS: Opening Tag Theke Surukore Closing Tag Porjonto Including Content-k Element Bole.
+
+What is Attribute?
+ANS: Providing Additional Information of a Tag is called Attribute.
+
+What is Anchore Tag?
+ANS: Link-up Content is Used as anchore Tag.
+
+
