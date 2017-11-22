@@ -1,0 +1,33 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_04:
+
+Today We Work With Github:
+============================
+
+# 1st Topic: Create Guithub Account.
+
+# 2nd Topic: Use Git Bash to Confirm User ID; e.g: git config --global user.name "myname"
+
+# 3rd Topic: Use Git Bash to Confirm Email Address; e.g: git config user.email "my email address"
+
+# 4th Topic: Download Backup Git Folder in Local Machine Using Clone Option; e.g: git clone server URL
+
+# 5th Topic: If We stand Deferent Directory, We Can Change The Directory Using CD Method; e.g: cd folder name
+
+# 6th Topic: If We Want To See List of Files, We Can Use LS Command; e.g: ls
+
+# 7th Topic: If We Want To See Git Status, Using Status Command; e.g: git status
+
+# 8th Topic: When We are Ready to Add More Files Using Add Command; e.g: git add .
+
+# 9th Topic: To Final Clearence For Add Files Using Commit Command; e.g: git commit -m"Any Comments We Want"
+
+# 10th Topic: Final Command To Upload Files to Git Using Push Command; e.g: git push origin master
+
+# 11th Topic: Structure & Content of Any Webpage are Create By CSS (Class Based Style Sheet)-1995;
+
+# 12th Topic: 
