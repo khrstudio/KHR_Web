@@ -72,6 +72,12 @@ ANS: Tag is a Syntex, which is Used For Show The Content in Browser.
 What is Element?
 ANS: Opening Tag Theke Surukore Closing Tag Porjonto Including Content-k Element Bole.
 
+What is Block Level Element?
+ANS: Full Length Element is called Block Level Element; e.g: <p></p> or <div></div> or 
+
+What is Inline Element?
+ANS: Only Content Lenth is Clled Inline Element; e.g: <a></a> or <span></span> or <img></img>
+
 What is Attribute?
 ANS: Providing Additional Information of a Tag is called Attribute.
 

@@ -28,6 +28,40 @@ Today We Work With Github:
 
 # 10th Topic: Final Command To Upload Files to Git Using Push Command; e.g: git push origin master
 
+
+Today We Work With CSS:
+============================
+
 # 11th Topic: Structure & Content of Any Webpage are Create By CSS (Class Based Style Sheet)-1995;
 
-# 12th Topic: 
+# 12th Topic: Basic Syntex of CSS are "Selector" "Property" "Value".
+
+# 13th Topic: p{font-size:20px; color:red}
+
+# 14th Topic: Call html Topic We can Used id/class  #demo{font-size:20px; color:red} / .demo{font-size:20px; color:red}
+
+# 15th Topic: If We Want to Write CSS Style Sheet, Must Use Style Tag.
+
+# 16th Topic: We Need to Create a CSS File; e.g: style.css
+
+# 17th Topic: Full Length Element is called Block Level Element; e.g: <p></p> or <div></div> or 
+
+# 18th Topic: Only Content Lenth is Clled Inline Element; e.g: <a></a> or <span></span> or <img></img>
+
+# 19th Topic: Create a Gap Between 2 Block Level Content, We can Use Margin Attribute; e.g: 
+
+# 20th Topic: Margin Works in all Dimension (Top-Right-Bootom-Left) of Element with clock wise;
+
+# 21st Topic: If Margin Value is 10% its Works all Dimension; e.g:
+
+# 22nd Topic: If Margin Value is 10% & 20% its Works in 1st & 3rd Dimension And 2nd & 4th Dimension; e.g:
+
+# 23th Topic: If Margin Value is 10%, 20% & 30% its Works in 1st Dimension And 2nd & 4th Dimension And 3rd Dimension; e.g:
+
+# 24th Topic: If Margin Value is 10%, 20%, 30% & 40% its Works in 1st Dimension, 2nd Dimension, 3rd Dimension And 4th Dimension; e.g:
+
+# 25th Topic: Create Space In DIV Using Padding Tag according box element; We must use box-sizing:border-box;
+
+# 26th Topic: Grid System is a Technic of a Webpage. e.g: It Devided a Full Page into 12 Section;
+
+# 27th Topic: 
