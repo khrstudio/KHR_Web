@@ -62,6 +62,5 @@ Today We Work With CSS:
 
 # 25th Topic: Create Space In DIV Using Padding Tag according box element; We must use box-sizing:border-box;
 
-# 26th Topic: Grid System is a Technic of a Webpage. e.g: It Devided a Full Page into 12 Section;
+# 26th Topic: Grid System is a Technic of a Webpage Layout. e.g: It Devided a Full Page into 12 Section;
 
-# 27th Topic: 

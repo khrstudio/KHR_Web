@@ -1,0 +1,21 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_04:
+
+Today We Work Grid System:
+==========================
+RAW CSS
+# 1st Topic: Create Table
+
+# 2nd Topic: Pseudo Class is Special Class which is not always available.
+
+# 3rd Topic: Pseudo Element will active with Pseudo Class when Mouse Button is Active on Element.
+
+# 4th Topic: Margin & Padding 0px Using Global Selector; e.g: *{margin:0px; padding:0px;}
+
+# 5th Topic: We Can Create Menu, Using UL ot OL Tag; e.g: <ul> <li></li> </ul> or <ol> <li></li> </ol>
+
+# 6th Topic: 
