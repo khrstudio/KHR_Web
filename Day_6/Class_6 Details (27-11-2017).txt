@@ -1,0 +1,27 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_06:
+
+Today We Work Media Query Technic:
+==================================
+Responsive Web Design:
+
+# 1st Topic: Meadia Query is a Technique of CSS. Its Create Some Condition Using Browser Resulation.
+
+
+Today We Work With Botstrap Framework:
+=====================================
+
+# 1st Part: Bootstrap is a Framework of CSS. Its a Complete Structure Created With CSS.
+
+# 2nd Part: Framework Installation; e.g: Download Zip File From getbootstrap.com And Extract & Linked With Index.html
+
+Today We Work With Botstrap Grid System:
+========================================
+
+# 1st Part:  Create 05 Class With Bootstrap Grid System in Page Layout; 
+	     e.g: xl (Extra Large); lg (Large); md (Medium); sm (Small); col (Extra Small);
+
