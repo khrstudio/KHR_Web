@@ -1,0 +1,12 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_08:
+
+Responsive Web Design:
+
+Today We Work With Botstrap Grid System:
+========================================
+

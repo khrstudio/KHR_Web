@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/bootstrap.css"/>
+</head>
+<body>
+    <div class="jumbotron" style="margin-bottom: 0px">
+        <div class="container">
+            <h3>This is a Heading.</h3>
+            <p>This is a Paragraph.This is a Paragraph.This is a Paragraph.This is a Paragraph.</p>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+        <div class="container">
+            <a href="" class="navbar-brand">KHR Studio</a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#khrstudio">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="khrstudio">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item"><a href="" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="" class="nav-link">About</a></li>
+                <li class="nav-item dropdown"><a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">Service</a>
+                    <ul class="dropdown-menu bg-dark">
+                        <li class="nav-item"><a href="" class="nav-link">Service One</a></li>
+                        <li class="nav-item"><a href="" class="nav-link">Service Two</a></li>
+                        <li class="nav-item"><a href="" class="nav-link">Service Three</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item"><a href="" class="nav-link">Gallery</a></li>
+            </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="" class="nav-link">Login</a></li>
+                <li class="nav-item"><a href="" class="nav-link">Sign Up</a></li>
+            </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <hr/>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="form-group">
+                <label for="firstName">First Name</label>
+                <input type="text" name="first_name" id="firstName" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label>Last Name</label>
+                <input type="text" name="last_name" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label>Email Address</label>
+                <input type="email" name="email_address" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" name="password" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label>Phone Number</label>
+                <input type="number" name="phoneNumber" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label>Date Of Birth</label>
+                <input type="date" name="date_of_birth" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label><input type="radio" name="gender" value="male"> Male</label>
+                <label><input type="radio" name="gender" value="female"> Female</label>
+            </div>
+
+            <div class="form-group">
+                <label>Address</label>
+                <textarea name="address" class="form-control"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Image</label>
+                <input type="file" name="image" accept="image/*" multiple class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label>District Name</label>
+                <select name="district_name" class="form-control">
+                    <option>---Select District Name---</option>
+                    <option value="dhaka">Dhaka</option>
+                    <option value="savar">Savar</option>
+                    <option value="dohar">Dohar</option>
+                    <option value="narayangonj">Narayangonj</option>
+                </select>
+            </div>
+
+            <div class="form-check">
+                <label class="form-check-label">
+                    <input type="checkbox" name="agree" class="form-check-input" value="1"/> <b>I Agree With All Terms & Condition</b>
+                </label>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" name="btn" class="btn btn-success btn-block" value="Registration"/>
+            </div>
+        </div>
+        <div class="col-sm-8">
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">First Name</label>
+                <div class="col-sm-9">
+                    <input type="text" name="first_name" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Last Name</label>
+                <div class="col-sm-9">
+                    <input type="text" name="last_name" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Email Address</label>
+                <div class="col-sm-9">
+                    <input type="text" name="email_address" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Password</label>
+                <div class="col-sm-9">
+                    <input type="password" name="password" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Phone Number</label>
+                <div class="col-sm-9">
+                    <input type="number" name="phone_number" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Date Of Birth</label>
+                <div class="col-sm-9">
+                    <input type="date" name="date_of_birth" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Gender</label>
+                <div class="col-sm-9">
+                    <label><input type="radio" name="gender" value="male"> Male</label>
+                    <label><input type="radio" name="gender" value="female"> Female</label>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Address</label>
+                <div class="col-sm-9">
+                    <textarea name="address" class="form-control"></textarea>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">Image</label>
+                <div class="col-sm-9">
+                    <input type="file" name="image" accept="image/*" multiple class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label col-sm-3">District Name</label>
+                <div class="col-sm-9">
+                    <select name="district_name" class="form-control">
+                        <option>---Select District Name---</option>
+                        <option value="dhaka">Dhaka</option>
+                        <option value="savar">Savar</option>
+                        <option value="dohar">Dohar</option>
+                        <option value="narayangonj">Narayangonj</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label class="form-check-label col-sm-3"></label>
+                <div class="col-sm-9">
+                    <input type="checkbox" name="agree" class="form-check-input" value="1"/> <b>I Agree With All Terms & Condition</b>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <input type="submit" name="btn" class="btn btn-outline-success btn-block" value="Registration"/>
+                </div>
+            </div>
+
+    </div>
+</div>
+<script src="js/jquery-3.2.1.js"></script>
+<script src="js/poppers.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>

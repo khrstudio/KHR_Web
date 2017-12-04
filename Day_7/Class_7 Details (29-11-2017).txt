@@ -1,0 +1,25 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_07:
+
+Responsive Web Design:
+
+Today We Work With Botstrap Grid System:
+========================================
+
+# 1st Part:  Create 05 Class With Bootstrap Grid System in Page Layout; 
+	     e.g: xl (Extra Large); lg (Large); md (Medium); sm (Small); col (Extra Small);
+
+
+# 2nd Part: Input Element; Its a User Based Information Inpute Form.
+	a) input
+	b) textarea
+	c) select
+	d) data list
+	e) keygan
+	f) output
+
+# 3rd Part: Create Form With Input Element.
