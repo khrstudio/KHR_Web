@@ -1,0 +1,77 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_10:
+
+Responsive Web Design:
+
+Today We Work With Java Script (Content Behaviour):
+=====================================
+
+# 1st Step: What is Java Script?
+ANS: Java Script is a Object Oriented Scripting Language. Its also a Programming Language. It Makes Some Decission & Can Correction in TAG. In 1994 Sir Brenden Eich Introduced This Concept. In 1995 JAVA Script Launched. After Launching Netscape Company Changed its Name to "Live Script" From "Java Script". At The End of 1995 Its Returned Back to Old Famous Name "JAVA Script". In 1999 ECMA-3 (JAVA Script) Published. After 10 Years, In 2009 ECMA-5 (JAVA Script) Published & Lastly in 2015 ECMA-6 (JAVA Script) Published. ECMA-6 Also Called ECMA-2015.
+
+# 2nd Step: ECMA-6 Needs a Compiler Which Called "Buble".
+
+# 3rd Step: We Need to Know 5 Basic Syntex of JAVA Script;
+
+	a) Syntex :
+		1) Strings [ ' ' (Single Strings) Or " " (Double Strings) ]
+		2) If We Want to Write html in JAVA Script; Must Use Strings (' ');
+		3) An HTML Element Has 3 Elements:
+			i) Default Charactericties	ii) Content		iii) Attribute
+		
+	b) Variable : Its a Memory Location Or Address; Its Also Called Storage.
+		3 Major Rules Must Be Followed For Variable Syntex;
+			1) Start With var sign
+			2) A-Z, a-z, 0-9, _, $   are Used as Variable Name.
+			3) No Number in First.
+
+		3 Standard Rules of Variable Syntex;
+			1) Small Leter
+			2) Meaningfull
+			3) Readable
+
+	c) Operator : Its 
+		1) Arithmatic Operator
+			i) Binary (+, -, *, /, %)
+			ii) Unary (++, --, (-) )
+		2) Assignment Operator ( =, +=, -=, *=, /=, %=)
+		3) Conditional Operator ( >, >=, <, <=, ==, !=, ===, !==)
+		4) Logical Operator (&&, ||, !)
+		
+	d) Statement : Three Types of Statement we can Use,
+			(a) Single Line
+			(b) Conditional
+				i) If
+				ii) If Else
+				iii) If Else If
+				iv) Switch
+			(c) Repeated
+				i) For
+				ii) While
+				iii) Do While
+				iv) For In
+
+	5 Must Elements Are Use to Write Any Statement 
+		1) Value
+			i) Variable Value ( X, Y, Z )
+			ii) Fixed Value ( Number / Digit Value )
+		2) Syntex
+			i) var
+			ii) for
+			iii) While
+		3) Operator
+		4) Expression
+			i) Value + Operation = Exprerssion ( X+Y=10)
+		5) Comments
+			i) Single Line Comments ( / )
+			ii) Double Line Comments ( // )
+
+	e) Array : Its a Special Variable Which Can Contain Multiple Data.
+	f) Function : 
+
+
+	

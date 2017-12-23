@@ -1,0 +1,25 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_09:
+
+Responsive Web Design:
+
+Today We Work With Botstrap Slider System:
+========================================
+
+# 1st Step: What is Carosel?
+ANS: its work as element initialiser Or wrapper of all element of a slider.
+	a) Carosel-Inner	b)Carosel-control	c)Carosel-indicator
+
+# 2nd Step: What is Modal?
+ANS: its work as element initialiser Or wrapper of all element of a slider.
+	a) Carosel-Inner	b)Carosel-control	c)Carosel-indicator
+
+# 3rd Step: What is Card?
+ANS: its work as article view module.
+
+
+# image with background property

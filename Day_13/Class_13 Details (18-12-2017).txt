@@ -1,0 +1,13 @@
+Web Application Development-PHP (Batch-73)
+==========================================
+Coordinate By: Mr.Sayem Murshed
+Class Conducted By: Mr.Habibur Rahman
+==========================================
+Day_13:
+
+Responsive Web Design:
+
+Today We Work With Java Script (Content Behaviour):
+=====================================
+
+# 1st Step: 
