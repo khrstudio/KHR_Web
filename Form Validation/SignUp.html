@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>SignUp</title>
+    </head>
+
+    <body bgcolor="#2f4f4f">
+    <form action=" " method="post" id="signUp">
+
+        <h1 align="center">Create an Account</h1>
+        <table width="700" height="550" align="center" bgcolor="#faebd7">
+            <!--First Name-->
+            <tr>
+                <th>First Name</th>
+                <td>
+                    <input type="text" name="first_name" id="firstName">
+                    <span id="firstNameError" style="color: red;"></span>
+                </td>
+            </tr>
+
+            <!--Last Name-->
+            <tr>
+                <th>Last Name</th>
+                <td>
+                    <input type="text" name="last_name" id="lastName">
+                    <span id="lastNameError" style="color: red;"></span>
+                </td>
+            </tr>
+
+            <!--Email Address-->
+            <tr>
+                <th>Email Address</th>
+                <td>
+                    <input type="email" name="email_address" id="emailAddress">
+                    <span id="emailAddressError" style="color: red;"></span>
+                </td>
+            </tr>
+
+            <!--password-->
+            <tr>
+                <th>Password</th>
+                <td>
+                    <input type="password" name="password" id="password">
+                    <input type="checkbox" id="checkBoxPassword">Show Password
+                    <span id="passwordError" style="color: red;"></span>
+                </td>
+            </tr>
+
+
+            <!--Confirm Password-->
+            <tr>
+                <th>Confirm Password</th>
+                <td>
+                    <input type="password" name="confirm_password" id="confirmPassword">
+                    <span id="confirmPasswordError" style="color: red;"></span>
+                </td>
+            </tr>
+
+
+            <!--PhoneNumbe-->
+            <tr>
+                <th>Phone Number</th>
+                <td>
+                    <input type="number" name="phone_number" id="phoneNumber">
+                    <span id="phoneNumberError" style="color: red;"></span>
+                </td>
+            </tr>
+
+
+            <!--Birth Day-->
+            <tr>
+                <th>Date of Birth</th>
+                <td>
+                    <input type="text" name="date_of_birth" id="dateOfBirth">
+                    <span id="dateOfBirthError" style="color: red;"></span>
+                </td>
+            </tr>
+
+
+            <!--Gender-->
+            <tr>
+                <th>Gender</th>
+                <td>
+                    <input type="radio" name="gender" value="Male">Male
+                    <input type="radio" name="gender" value="Female">Female
+                    <span id="genderError" style="color: red;"></span>
+                </td>
+            </tr>
+
+
+            <!--Location-->
+            <tr>
+                <th>Location</th>
+                <td>
+                    <select name="select_country" id="selectCountry">
+                        <option value=" ">Select Country</option>
+                        <option value="bangladesh">Bangladesh</option>
+                        <option value="india">India</option>
+                        <option value="pakistan">Pakistan</option>
+                        <option value="england">England</option>
+                        <option value="chiana">Chiana</option>
+                        <option value="australia">Australia</option>
+                        <option value="america">America</option>
+                    </select>
+                    <span id="selectCountryError" style="color: red;"></span>
+                </td>
+            </tr>
+
+
+            <!--Check-->
+            <tr>
+                <th></th>
+                <td>
+                    <input type="checkbox" name="agree" value="check"> I agree With all terms & Conditions
+                </td>
+            </tr>
+
+
+            <!--Submit-->
+            <tr>
+                <th></th>
+                <td>
+                    <input type="submit" name="btn" id="btn" value="SignUp">
+                </td>
+            </tr>
+
+
+
+        </table>
+    </form>
+
+
+
+    <script src="jquery-3.2.1.js"></script>
+    <script src="script.js"></script>
+    </body>
+</html>
